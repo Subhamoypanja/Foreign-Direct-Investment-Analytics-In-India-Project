@@ -14,7 +14,12 @@ Sector-wise investment analysis Year-wise investment analysis.
 # Dataset 📀
 https://raw.githubusercontent.com/Subhamoypanja/Foreign-Direct-Investment-Analytics-In-India-Project/main/Dataset/FDI%20data.csv
 # Technology:
-Data Science
+Data Science  
+1.Jupyter notebook(Google Colab)
+2.Python
+3.Pandas
+4.Matplotlib
+5.Seaborn
 # Domain:
 Finance
 # Programming Language:
